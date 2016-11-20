@@ -14,7 +14,7 @@ function createGraph() {
     .sort(null)
     .size([width, height])
     .padding(1)
-    .radius(function(d) { return 35 + (sizeOfRadius(d) * 30); });
+    .radius(function(d) { return 20 + (sizeOfRadius(d) * 60); });
 
   var svg = d3.select("#chart").append("svg")
     .attr("width", width)
