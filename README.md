@@ -1,0 +1,1 @@
+A Flask demo web app that fetches data from Nasdaq-100 and visualizes it as a bubble graph with D3 based on [a tutorial on Full Stack Development from Real Python](https://realpython.com/blog/python/web-development-with-flask-fetching-data-with-requests/).
